@@ -1,4 +1,5 @@
-[
+{
+  "info":[
  {
     "id" : "1",
     "Descripcion" : "Logitech TKL G915",
@@ -56,3 +57,4 @@
     "UrlImagen" : "https://resource.logitechg.com/content/dam/gaming/en/products/g533/g533-gallery-1.png"
 }
 ]
+}
